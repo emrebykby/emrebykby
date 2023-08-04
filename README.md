@@ -1,6 +1,4 @@
 
-![KNNx](https://github.com/emrebykby/emrebykby/assets/90874753/6e726ac5-f092-4861-ba58-fad70f901338)
-
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">Electrical and Electronical Enginnering and Coder</h3>
 
