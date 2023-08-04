@@ -1,5 +1,7 @@
+![image](https://github.com/emrebykby/emrebykby/assets/90874753/6649b1c6-32ed-4dd5-9ee5-16c4718bb9e7)
+
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">Electrical and Electronical Enginner and Coder</h3>
+<h3 align="center">Electrical and Electronical Enginnering and Coder</h3>
 
 - 🔭 I’m currently working on **Python**
 
